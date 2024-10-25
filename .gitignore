@@ -1,2 +1,4 @@
 docs
 __pycache__
+output_html
+.DS_Store
